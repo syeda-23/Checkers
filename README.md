@@ -1,7 +1,7 @@
 # Checkers
 
 ## Overview
-This is a game of checkers (or draughts!) I built using Python, with the GUI implemented using Tkinter. It is playable against either a human or computer opponent. The computer moves are determined using the minimax algorithm
+This is a game of checkers (or draughts!) I built using Python, with the GUI implemented using Tkinter for the coursework component of my A-level computer science qualification in 2025. It is playable against either a human or computer opponent. The computer moves are determined using the minimax algorithm
 
 ## Features
 
